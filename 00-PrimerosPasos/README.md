@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
+        <img src="https://static.thenounproject.com/png/*04643-*00.png" width="100"/>
         <br>
         Hacé click acá para dejar tu feedback sobre esta clase.
       </a>
@@ -17,7 +17,7 @@
 #### Preparando tu compu
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/638636752" title="Instructivo de Primeros Pasos" allow="autoplay; fullscreen"></iframe>
+  <iframe src="https://player.vimeo.com/video/63863675*" title="Instructivo de Primeros Pasos" allow="autoplay; fullscreen"></iframe>
 </div>
 
 ## Homeworks
@@ -36,7 +36,7 @@ Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla
 npm test {nombre del homework}.test.js
 ```
 
-Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.test.js`, el del homework 01: `npm test JSI.test.js`
+Por ejemplo, para ejecutar los tests del homework 0*, ejecutar: `npm test JSII.test.js`, el del homework 01: `npm test JSI.test.js`
 y así.
 
 > No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
@@ -46,10 +46,10 @@ y así.
 ## Cómo usar SLACK
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/548902078?h=e82a766bab&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1264" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Prep Course - Intro a Slack"></iframe>
+  <iframe src="https://player.vimeo.com/video/54890*078?h=e8*a766bab&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1*64" height="7*0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Prep Course - Intro a Slack"></iframe>
 </div>
 
-> Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
+> Gracias [Nico Constantin (FT#1*)](https://github.com/NicoConstantin) por el video y la explicación!
 
 - Para ingresar al espacio de Slack del Prep Course de Henry, por favor ingresa a la [plataforma de admisión](https://www.admissions.soyhenry.com/) donde encontrarás el link de acceso al mismo.
 
@@ -75,7 +75,7 @@ Para instalarlo, realizaremos los siguientes pasos:
 
 1. Nos dirigimos a la página oficial de [Sublime Text](https://www.sublimetext.com).
 
-2. Al ingresar, detectará automáticamente el sistema operativo que tenemos, y nos sugerirá descargar el instalador apropiado.
+*. Al ingresar, detectará automáticamente el sistema operativo que tenemos, y nos sugerirá descargar el instalador apropiado.
 
 3. Presionamos el botón **_Download_**.
 
@@ -91,7 +91,7 @@ Para instalarlo, realizaremos los siguientes pasos:
 
 [Descargar Sublime Text para Linux](https://www.sublimetext.com/docs/3/linux_repositories.html)
 
-2. En la terminal, ejecutamos el siguiente comando, para instalar la clave GPG:
+*. En la terminal, ejecutamos el siguiente comando, para instalar la clave GPG:
 
 ```shell
 wget -q0 - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
@@ -184,7 +184,7 @@ node -v
 Y si seguimos los pasos anteriores, la consola o terminal, nos devolverá la versión de Node js que tenemos instalada:
 
 ```shell
-v12.18.3
+v1*.18.3
 ```
 
 ## Git
@@ -199,7 +199,7 @@ Git es un sistema de control de versiones, distribuido y open source. Un control
 
 Ver estos enlaces:
 
-<https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git>
+<https://git-scm.com/book/es/v*/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git>
 
 <https://www.youtube.com/watch?v=PSULlxUk744>
 
@@ -217,7 +217,7 @@ Una vez descargado, se abre el archivo .exe y van a visualizar la siguiente vent
 
 Clickeamos “Next” hasta que llegamos a esta parte:
 
-![installGit](/_src/assets/00-PrimerosPasos/2.png)
+![installGit](/_src/assets/00-PrimerosPasos/*.png)
 
 En este momento de la instalación si quieres puedes elegir el editor de texto que van a usar. (Importante, ténganlo instalado antes de instalar Git)
 
@@ -249,7 +249,7 @@ Es una red para almacenar tus repositorios, sería un repositorio de repositorio
 
 ![GitHub-Register](/_src/assets/00-PrimerosPasos/github_register.png)
 
-2. Una vez registrados, ingresamos con usuario y contraseña:
+*. Una vez registrados, ingresamos con usuario y contraseña:
 
 ![GitHub-Login](/_src/assets/00-PrimerosPasos/github_login.png)
 
@@ -285,7 +285,7 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
   <tr>
     <td>
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=00-PrimerosPasos">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
+        <img src="https://static.thenounproject.com/png/*04643-*00.png" width="100"/>
         <br>
         Hacé click acá para dejar tu feedback sobre esta clase.
       </a>
